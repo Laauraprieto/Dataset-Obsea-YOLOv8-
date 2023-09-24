@@ -7,9 +7,12 @@ Dataset structure:
 
 ├── OBSEAv2.v2i.yolov8
 
-│   ├── train
+│   
+├── train
 
-│   │     ├── images
+│   
+│    
+├── images
 
 │   │     └── labels
 
