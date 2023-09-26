@@ -1,6 +1,8 @@
 # Dataset-Obsea - YOLOv8
 In this repository you can find data (images and annotations) about the most abundant fish species recorded in the marine observatory Obsea area during the years 2013 and 2014. In addition, it includes the predictions made with the YOLOv8 model, exactly with the training network "Yolov8x".
 
+The training part was made with the new dataset (images of the marine observatory you can find in the repository) which has a better quality than the images used to predict.
+
 The predictions results are not 100% reliable because of the images quality.
 
 Dataset structure:
