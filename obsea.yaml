@@ -1,0 +1,13 @@
+train: /srv/dataset_obsea/train/images
+val: /srv/dataset_obsea/valid/images
+test: /srv/dataset_obsea/test/images
+
+nc: 13
+names: ['Chromis chromis', 'Coris julis', 'Dentex dentex', 'Diplodus cervinus', 'Diplodus puntazzo', 'Diplodus sargus', 'Diplodus ssp', 'Diplodus vulgaris', 'Mullus surmuletus', 'Seriola dumerili', 'Serranus cabrilla', 'Sparus aurata', 'unknown']
+
+roboflow:
+  workspace: tfg-laura
+  project: obseav2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tfg-laura/obseav2/dataset/2
